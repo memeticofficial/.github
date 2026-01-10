@@ -1,1 +1,1 @@
-# pepeteam
+# Official PepeCoin Team (pepeteam) Organization
