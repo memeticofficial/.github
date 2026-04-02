@@ -1,7 +1,7 @@
 ## Official PepeCoin Team Github Organization
 
 
-Copyright 2025-2026 PepeCoin Co.
+Copyright 2016-2026 PepeCoin Co.
 <!--
 
 **Here are some ideas to get you started:**
